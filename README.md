@@ -17,4 +17,8 @@ point, I'll add it later.
 
 <br>
 vim: set tw=80:
-<!-- GitAds-Verify: 6N2FIP3SRTDOO25A7Q8KP1PGS5DFIBX1 -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/iwbtc@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/iwbtc@github)
+
+
